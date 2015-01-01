@@ -1,0 +1,5 @@
+{
+	"pubkey": "PLUGIN_YOUR_DNS4E_PUB_KEY",
+	"seckey": "PLUGIN_YOUR_DNS4E_SECRET_KEY",
+	"address": "PLUGIN_YOUR_DOMAIN e.g. home.endeavour.net"
+}
